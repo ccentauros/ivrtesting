@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Hello Rama!, this is a testing. Don´t be scare, it´s me, Edgar!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
